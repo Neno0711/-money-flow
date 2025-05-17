@@ -1,6 +1,6 @@
 # money_flow
 
-A new Flutter project.
+App para control de gastos.
 
 ## Getting Started
 
@@ -14,4 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![img.png](img.png)
+![img.png](https://github.com/Neno0711/-money-flow/blob/main/Captura%20de%20pantalla%202025-05-15%20170445.png?raw=true)
